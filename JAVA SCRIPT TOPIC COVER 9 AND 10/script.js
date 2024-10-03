@@ -4,9 +4,9 @@
 
 var userName = prompt("What is your name?");
 
-var userAnswer = userAnswer;
+var userAnswer = userName;
 
-alert("Hello" + userName);
+alert("Hello" + userAnswer);
 
 //EXAMPLE NO 02 RELATED PROMPT
 
