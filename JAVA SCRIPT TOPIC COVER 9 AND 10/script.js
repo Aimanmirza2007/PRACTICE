@@ -4,7 +4,7 @@
 
 var userName = prompt("What is your name?");
 
-var userAnswer = userName;
+var userAnswer = userAnswer;
 
 alert("Hello" + userName);
 
